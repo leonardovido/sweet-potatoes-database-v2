@@ -1,5 +1,5 @@
-classes = 1
-train = /content/sweet-potatoes-database-v1/train.txt
-valid = /content/sweet-potatoes-database-v1/valid.txt
-names = /content/sweet-potatoes-database-v1/obj.names
+classes = 3
+train = /content/sweet-potatoes-database-v2/train.txt
+valid = /content/sweet-potatoes-database-v2/valid.txt
+names = /content/sweet-potatoes-database-v2/obj.names
 backup = backup/
